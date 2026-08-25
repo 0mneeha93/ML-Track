@@ -64,14 +64,14 @@ Not a real content archetype a near-zero-impression measurement artifact. Recomm
 ## 8. Reproducibility
 
 Every figure and number in this paper traces back to a committed, runnable notebook.
-work/notebooks/w05_model.ipynb modeling & baseline
-work/notebooks/w06_validation_audit.ipynb validation & audit
-github.com/0mneeha93/ML-Track full repository
+
+- [work/notebooks/w05_model.ipynb](https://github.com/0mneeha93/ML-Track/blob/main/work/notebooks/w05_model.ipynb) — modeling & baseline
+- [work/notebooks/w06_validation_audit.ipynb](https://github.com/0mneeha93/ML-Track/blob/main/work/notebooks/w06_validation_audit.ipynb) — validation & audit
+- [github.com/0mneeha93/ML-Track](https://github.com/0mneeha93/ML-Track) — full repository
 
 ## 9. Acknowledgments & data credit
 
-Built on the FlyRank ML Internship dataset.
-
+- [Built on the FlyRank ML Internship dataset](https://flyrank.ai/)
 ---
 
 > **Claims checklist before submitting:** observed / measured / directional / decision-support
